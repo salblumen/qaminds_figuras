@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab43877f-2564-436e-810d-c898cfbb6102" name="Changes" comment="" />
+    <list default="true" id="c144b5cf-4d27-4895-b3a7-6130badbb001" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/qaminds/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/qaminds/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/qaminds/figuras/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/qaminds/figuras/Circulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/qaminds/figuras/Figura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/qaminds/figuras/Figura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/qaminds/figuras/Rectangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/qaminds/figuras/Rectangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/qaminds/figuras/Triangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/qaminds/figuras/Triangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/qaminds/test/FiguraTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/qaminds/test/FiguraTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/qaminds/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/qaminds/test/Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,11 +25,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2W7jzb1E0nP52jaMIevCt5oWv4N" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2W88nitQC1v8qL4cuizRXV3cw4p" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
@@ -25,31 +41,51 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "/Users/sflores/Projects/qaminds_figuras/src/main/java/org/example/Main.java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="FiguraTest.validarCalcularAreaCirculo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qaminds_figuras" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.qaminds.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.qaminds.test" />
+      <option name="MAIN_CLASS_NAME" value="org.qaminds.test.FiguraTest" />
+      <option name="METHOD_NAME" value="validarCalcularAreaCirculo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.FiguraTest.validarCalcularAreaCirculo" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ab43877f-2564-436e-810d-c898cfbb6102" name="Changes" comment="" />
-      <created>1696090777461</created>
+      <changelist id="c144b5cf-4d27-4895-b3a7-6130badbb001" name="Changes" comment="" />
+      <created>1696103018273</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1696090777461</updated>
-      <workItem from="1696090779556" duration="17000" />
+      <updated>1696103018273</updated>
+      <workItem from="1696103022373" duration="2110000" />
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

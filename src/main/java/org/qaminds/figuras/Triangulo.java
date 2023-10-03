@@ -1,2 +1,17 @@
-package org.qaminds.figuras;public class Triangulo {
+package org.qaminds.figuras;
+
+public class Triangulo extends Figura{
+
+    private double base;
+    private double altura;
+
+    public Triangulo(double base, double altura){
+        this.base = base;
+        this.altura = altura;
+    }
+
+    @Override
+    double calcularArea() {
+        return (base * altura) / 2;
+    }
 }

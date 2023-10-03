@@ -1,2 +1,7 @@
-package org.qaminds.figuras;public class Figura {
+package org.qaminds.figuras;
+
+abstract class Figura {
+
+    abstract double calcularArea();
+
 }
