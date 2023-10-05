@@ -1,0 +1,1 @@
+# qaminds_figuras
