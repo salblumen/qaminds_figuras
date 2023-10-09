@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c144b5cf-4d27-4895-b3a7-6130badbb001" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/qaminds/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/qaminds/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/qaminds/figuras/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/qaminds/figuras/Circulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/qaminds/figuras/Figura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/qaminds/figuras/Figura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/qaminds/figuras/Rectangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/qaminds/figuras/Rectangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/qaminds/figuras/Triangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/qaminds/figuras/Triangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/qaminds/test/FiguraTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/qaminds/test/FiguraTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/qaminds/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/qaminds/test/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,10 +15,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2W88nitQC1v8qL4cuizRXV3cw4p" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,6 +31,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/sflores/Projects/qaminds_figuras",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -81,7 +72,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696103018273</updated>
-      <workItem from="1696103022373" duration="2110000" />
+      <workItem from="1696103022373" duration="3050000" />
+      <workItem from="1696299796772" duration="2429000" />
     </task>
     <servers />
   </component>
